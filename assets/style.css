@@ -40,3 +40,33 @@ body > header > .navbar-light .navbar-brand {
 .imageAboutPage {
     width: 100%;
 }
+
+/* services section css */
+.servicesText.card {
+    height: 200px;
+    cursor: pointer;
+}
+
+.servicesIcon {
+    font-size: 36px;
+    text-align: center;
+    width: 100%;
+}
+
+.card-title {
+    text-align: center;
+}
+
+.card:hover .servicesIcon {
+    color: #5E69DF;
+}
+
+.servicesText:hover {
+    border: 1px solid #5E69DF;
+}
+
+/* display background color black on navbar scroll */
+/* .navbarScroll.navbarDark {
+    background-color: black;
+} */
+
