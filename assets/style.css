@@ -36,6 +36,10 @@ body > header > .navbar-light .navbar-brand {
     color: white;
 }
 
+.hero_about {
+    font-size: 1.5rem;
+}
+
 /* about section image css */
 .imageAboutPage {
     width: 100%;
